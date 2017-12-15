@@ -15,22 +15,22 @@
             android:id="@+id/imageView"
             android:layout_width="120dp"
             android:layout_height="120dp"
-            android:src="@drawable/xml" />
+            android:src="@drawable/xml" android:contentDescription="@string/todo" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="XML"
+            android:text="@string/xml"
             android:textColor="@android:color/white"
-            android:textSize="40dp"
+            android:textSize="40sp"
             android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Data Representation Foramt"
+            android:text="@string/data_representation_foramt"
             android:textColor="@color/dot_light_2"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:textStyle="bold" />
     </LinearLayout>
 </RelativeLayout>

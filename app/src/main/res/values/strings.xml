@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Introduction</string>
+    <string name="next">NEXT</string>
+    <string name="skip">Skip</string>
+    <string name="c_language">C language</string>
+    <string name="building_blocks_of_computer">Building Blocks of Computer</string>
+    <string name="null_point_exception">Null Point Exception</string>
+    <string name="java">Java</string>
+    <string name="php">php</string>
+    <string name="server_side_language">Server Side Language</string>
+    <string name="todo">TODO</string>
+    <string name="xml">XML</string>
+    <string name="data_representation_foramt">Data Representation Foramt</string>
 </resources>
